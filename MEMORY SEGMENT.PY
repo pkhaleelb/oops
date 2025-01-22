@@ -8,9 +8,9 @@
 # tata=Car()
 # tata
 
-class Insta:
-    def __init__(self):
-        self.name='ram'
-        self.id=1233
-        print(self.name,self.id)
-Insta()
+# class Insta:
+#     def __init__(self):
+#         self.name='ram'
+#         self.id=1233
+#         print(self.name,self.id)
+# Insta()
